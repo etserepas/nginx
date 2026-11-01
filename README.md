@@ -37,4 +37,4 @@ This ensures a robust installation even in complex dependency scenarios.
 To install Nginx with the default settings, run the following command:
 
 ```bash
-sudo bash -c "$(curl -o- https://raw.githubusercontent.com/efthymios-tserepas/nginx/main/nginx.sh)"
+sudo bash -c "$(curl -o- https://raw.githubusercontent.com/etserepas/nginx/main/nginx.sh)"
